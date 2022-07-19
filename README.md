@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cowiety
+- 👀 I’m interested in machine learning and automation problems in the energy industry
+- 🌱 I’m currently learning about machine vision using deep learning
+- 📫 How to reach me: tyler.cowie1@gmail.com
